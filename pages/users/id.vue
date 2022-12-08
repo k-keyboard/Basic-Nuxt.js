@@ -1,9 +1,9 @@
 <template>
   <div>
     <h1>
-    User Detail
+    User Slug Detail
   </h1>
-  <p>{{id}}</p>
+  <p>Slug : {{id}}</p>
   </div>
 </template>
 

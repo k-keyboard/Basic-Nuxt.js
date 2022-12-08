@@ -111,7 +111,12 @@
             /></svg
         ></a>
       </div>
+    <nuxt-link to="/about">Go to About</nuxt-link> |
+    <nuxt-link to="/users">Users List</nuxt-link>
+
+
     </div>
+
   </div>
 </template>
 
